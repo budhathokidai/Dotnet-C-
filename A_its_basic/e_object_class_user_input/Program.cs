@@ -1,7 +1,5 @@
 ﻿namespace e_object_class_user_input;
 
-
-
 class Program
 {
     int roll;
