@@ -1,0 +1,15 @@
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.AssemblyInfoInputs.cache
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.AssemblyInfo.cs
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.csproj.CoreCompileInputs.cache
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.sourcelink.json
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\bin\Debug\net10.0\d_nested_if.exe
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\bin\Debug\net10.0\d_nested_if.deps.json
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\bin\Debug\net10.0\d_nested_if.runtimeconfig.json
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\bin\Debug\net10.0\d_nested_if.dll
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\bin\Debug\net10.0\d_nested_if.pdb
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.dll
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\refint\d_nested_if.dll
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.pdb
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\d_nested_if.genruntimeconfig.cache
+C:\6-SEM-C#\D_control_statements\A_if_statement\d_nested_if\obj\Debug\net10.0\ref\d_nested_if.dll

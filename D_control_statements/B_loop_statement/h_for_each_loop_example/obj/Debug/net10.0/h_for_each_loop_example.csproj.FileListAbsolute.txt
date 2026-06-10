@@ -1,0 +1,15 @@
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\bin\Debug\net10.0\h_for_each_loop_example.exe
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\bin\Debug\net10.0\h_for_each_loop_example.deps.json
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\bin\Debug\net10.0\h_for_each_loop_example.runtimeconfig.json
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\bin\Debug\net10.0\h_for_each_loop_example.dll
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\bin\Debug\net10.0\h_for_each_loop_example.pdb
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.AssemblyInfoInputs.cache
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.AssemblyInfo.cs
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.csproj.CoreCompileInputs.cache
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.sourcelink.json
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.dll
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\refint\h_for_each_loop_example.dll
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.pdb
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\h_for_each_loop_example.genruntimeconfig.cache
+C:\6-SEM-C#\D_control_statements\B_loop_statement\h_for_each_loop_example\obj\Debug\net10.0\ref\h_for_each_loop_example.dll
