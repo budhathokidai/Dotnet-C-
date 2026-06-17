@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enter your choice from (a to f) to see the meanings:");
+        Console.WriteLine("Enter your choice from (a to g) to see the meanings:");
         string ? input=Console.ReadLine();
         switch (input)
         {
@@ -25,6 +25,9 @@ class Program
             break;
             case "f":
             Console.WriteLine("F for fan!");
+            break;
+            case "g":
+            Console.WriteLine("G for gun!");
             break;
             default:
             Console.WriteLine("K input gareko ?");
