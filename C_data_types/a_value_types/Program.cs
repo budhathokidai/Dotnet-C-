@@ -3,35 +3,35 @@ class Student
 {
     static void Main(string[] args)
     {
-        // Stores a single character
-        char section = 'B';
+        
+        char section = 'B';  // Stores a single character
 
-        // Stores whole numbers
-        int roll = 15;
+       
+        int roll = 15;   // Stores whole numbers
 
-        // Stores smaller whole numbers
-        short attendance = 180;
+        
+        short attendance = 180;  // Stores smaller whole numbers
 
-        // Stores very large whole numbers
-        long phoneNumber = 9841234567;
+       
+        long phoneNumber = 9841234567;   // Stores very large whole numbers
 
-        // Stores unsigned whole numbers (cannot be negative)
-        uint fees = 25000;
+       
+        uint fees = 25000;   // Stores unsigned whole numbers (cannot be negative)
 
-        // Stores smaller unsigned whole numbers
-        ushort books = 12;
+       
+        ushort books = 12;   // Stores smaller unsigned whole numbers
 
-        // Stores very large unsigned whole numbers
-        ulong collegeCode = 123456789;
+       
+        ulong collegeCode = 123456789;   // Stores very large unsigned whole numbers
 
-        // Stores decimal numbers (less precision than double)
-        float gpa = 3.8f;
+        
+        float gpa = 3.8f;   // Stores decimal numbers (less precision than double)
 
-        // Stores decimal numbers with high precision
-        double percentage = 87.56;
+       
+        double percentage = 87.56;   // Stores decimal numbers with high precision
 
-        // Stores money-related values with high accuracy
-        decimal balance = 1500.75m;
+      
+        decimal balance = 1500.75m;    // Stores money-related values with high accuracy
 
         // Displaying all values
         Console.WriteLine("Section: " + section);
