@@ -15,6 +15,7 @@ class Program
         Console.WriteLine("Press - :Subtraction");
         Console.WriteLine("Press * :Multiplication");
         Console.WriteLine("Press / :Division");
+        Console.WriteLine("Press % :Remainder");
 
         Console.WriteLine("Enter a  choice");
         string? choice = Console.ReadLine();
@@ -41,6 +42,11 @@ class Program
                 result = a / b;
                 Console.WriteLine("Division result = " + result);
                 break;
+             case "%":
+                result = a % b;
+                Console.WriteLine("Modulus result = " + result);
+                break;
+
 
             default:
                 Console.WriteLine("Invalid input");
