@@ -2,35 +2,18 @@
 //The return statement exits a method and optionally returns a value.
 class Program
 {
-    int a, b;
-
-    void Input()
+  static void Main(string[] args)
     {
-        Console.Write("Enter first number: ");
-        a = Convert.ToInt32(Console.ReadLine());
-
-        Console.Write("Enter second number: ");
-        b = Convert.ToInt32(Console.ReadLine());
+        int a = 3, b = 25, sum = 0;
+        sum = add(a, b);
+        Console.WriteLine("The sum = " + sum);
     }
-
-    int Add()
+    public static int add(int x, int y)
     {
-        return a + b;
-    }
-
-    static void Main(string[] args)
-    {
-        Program p1 = new Program();
-
-        p1.Input();
-
-        int sum = p1.Add();
-
-        Console.WriteLine("Sum is: " + sum);
+        int s = x + y;
+        return s;
     }
 }
 
 
-/*Enter first number: 4
-Enter second number: 5
-Sum is: 9*/
+/*The sum = 28*/
