@@ -3,15 +3,15 @@
 
 class Program
 {
-    double radius;
+    double r;
     void input()
     {
         Console.WriteLine("Enter radius of circle");
-        radius=Convert.ToDouble(Console.ReadLine());
+        r=Convert.ToDouble(Console.ReadLine());
     }
     void output()
     {
-        double area= 3.14 *radius *radius;
+        double area= 3.14 *r*r;
         Console.WriteLine("Area of circle:" +area);
     }
     static void Main(string[] args)
