@@ -1,5 +1,4 @@
 ﻿namespace h_array_String_sort;
-
 class Program
 {
     static void Main(string[] args)
