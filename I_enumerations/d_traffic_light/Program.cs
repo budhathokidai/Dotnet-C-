@@ -2,10 +2,10 @@
 
 class Program
 {
-      enum Lights{Red,Yellow,Green};
+    enum Lights { Red, Yellow, Green };
     static void Main(string[] args)
     {
-        var Traffic=Lights.Yellow;
+        var Traffic = Lights.Yellow;
         if (Traffic == Lights.Red)
         {
             Console.WriteLine("Stop where you are!");
