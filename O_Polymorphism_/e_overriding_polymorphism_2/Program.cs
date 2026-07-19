@@ -1,4 +1,5 @@
 ﻿namespace e_overriding_polymorphism_2;
+
 class Ayodhya
 {
     public virtual void jay()
@@ -18,7 +19,7 @@ class Program
     static void Main(string[] args)
     {
         //Ram r1=new Ram();
-        Ayodhya r1=new Ram();
+        Ayodhya r1 = new Ram();
         r1.jay();
     }
 }
