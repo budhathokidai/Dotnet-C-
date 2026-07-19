@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     { 
         var wd=Days.Tuesday;
-        if(wd==Days.Sunday || wd==Days.Monday)
+        if(wd==Days.Sunday  ||  wd==Days.Monday)
         {
             Console.WriteLine("Hello ist not the day you wnat!");
         }
