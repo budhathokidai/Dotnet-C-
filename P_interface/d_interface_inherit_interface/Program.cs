@@ -27,8 +27,8 @@ class Program
 {
     static void Main(string[] args)
     {
-       Mam d = new Mam();
-       //ISir s1=new Mam
+        Mam d = new Mam();
+        //ISir s1=new Mam
         d.Admin();
         d.Teach();
     }
