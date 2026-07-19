@@ -9,7 +9,7 @@ class Program
         object data;
 
         // storing integer value inside object
-        data = 4556666;
+        data = 45566;
 
         Console.WriteLine("Value stored in object: " + data);
 
@@ -18,5 +18,5 @@ class Program
     }
 }
 
-/*Value stored in object: 4556666
+/*Value stored in object: 45566
 Actual type: System.Int32*/
