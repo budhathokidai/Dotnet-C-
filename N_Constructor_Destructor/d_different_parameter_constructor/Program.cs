@@ -12,10 +12,10 @@ class Employee
         name = n;
         address = ad;
     }
-    public Employee(int b,string d)
+    public Employee(int b, string d)
     {
-        age=b;
-        address=d;
+        age = b;
+        address = d;
     }
 
     public void DisplayData_1()
@@ -39,9 +39,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Employee e1=new Employee(10,"Ram","KATHMANDU");
-        Employee e2=new Employee(11,"KATHMANDU");
-       
+        Employee e1 = new Employee(10, "Ram", "KATHMANDU");
+        Employee e2 = new Employee(11, "KATHMANDU");
+
 
         e1.DisplayData_1();
         e2.DisplayData_2();
