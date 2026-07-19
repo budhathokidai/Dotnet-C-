@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
     retry:
-        Console.Write("Enter your marks: ");
+        Console.Write("Enter your marks : ");
         int marks = Convert.ToInt32(Console.ReadLine());
 
         if (marks < 40)
