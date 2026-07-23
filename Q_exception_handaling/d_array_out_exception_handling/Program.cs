@@ -7,6 +7,8 @@ class Program
         int[] nums = new int[5];
         try
         { 
+            /* nums[3] = 8;
+            Console.WriteLine(nums[3]); */
             nums[10] = 30;
             Console.WriteLine(nums[10]);
         }
