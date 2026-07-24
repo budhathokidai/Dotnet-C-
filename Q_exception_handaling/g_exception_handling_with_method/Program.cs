@@ -6,7 +6,6 @@ class Calculator
         return num1 % num2;
     }
 }
-
 class Program
 {
     static void Main(string[] args)
