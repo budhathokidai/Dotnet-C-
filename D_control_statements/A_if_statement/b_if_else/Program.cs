@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Enter a number between 1 to 100:");
         int num=Convert.ToInt32(Console.ReadLine());
-        if(num % 2 == 0)
+        if(num % 2 == 0)    
         {
             Console.WriteLine("The enetered number is prime!");
         }
