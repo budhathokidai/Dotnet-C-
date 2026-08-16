@@ -1,6 +1,4 @@
 ﻿namespace e_reference_type_string;
-
-
 class Program
 {
     static void Main(string[] args)
