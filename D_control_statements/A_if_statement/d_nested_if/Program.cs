@@ -5,10 +5,10 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Enter a number you want!");
-        int num=Convert.ToInt32(Console.ReadLine());
-        if(num!=0)
+        int num = Convert.ToInt32(Console.ReadLine());
+        if (num != 0)
         {
-            if(num > 0)
+            if (num > 0)
             {
                 Console.WriteLine("The number you enetered is positive!");
             }
@@ -19,7 +19,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("The number is"+num+"!");
+            Console.WriteLine("The number is" + num + "!");
         }
     }
 }
