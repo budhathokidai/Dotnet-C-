@@ -5,13 +5,13 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Enter Principle");
-        int Pr=int.Parse(Console.ReadLine());
+        int Pr = int.Parse(Console.ReadLine());
         Console.WriteLine("Enter Rate:");
-        int Ra=Convert.ToInt32(Console.ReadLine());
-         Console.WriteLine("Enter Time:");
-        int Ti=Convert.ToInt32(Console.ReadLine());
-        int si=(Pr*Ra*Ti)/100;
-        Console.WriteLine("Simple intrest:"+si);
+        int Ra = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Time:");
+        int Ti = Convert.ToInt32(Console.ReadLine());
+        int si = (Pr * Ra * Ti) / 100;
+        Console.WriteLine("Simple intrest:" + si);
     }
 }
 
