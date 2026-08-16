@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-       int[] numbers={1,3,6,4,8,4,45};
-        foreach(int num in numbers)
+        int[] numbers = { 1, 3, 6, 4, 8, 4, 45 };
+        foreach (int num in numbers)
         {
             Console.WriteLine(num);
         }
@@ -14,7 +14,7 @@ class Program
         //reversing sorted for descending order
         Array.Reverse(numbers);
         Console.WriteLine("After Sorting in descending order");
-        foreach(int num in numbers)
+        foreach (int num in numbers)
         {
             Console.WriteLine(num);
         }
