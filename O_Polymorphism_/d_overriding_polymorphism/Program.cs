@@ -18,7 +18,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Ram r1=new Ram();
+        Ram r1 = new Ram();
         r1.jay();
     }
 }
