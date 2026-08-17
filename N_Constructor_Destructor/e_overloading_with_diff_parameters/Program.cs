@@ -29,7 +29,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Nums obj1 = new Nums(12, 34);
+        Nums obj1 = new Nums(12, 44);
         Nums obj2 = new Nums(2, 3, 4);
         obj1.displaySum();
         obj2.displayProduct();
