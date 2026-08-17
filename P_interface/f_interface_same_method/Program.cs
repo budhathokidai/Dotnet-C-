@@ -27,8 +27,8 @@ class Program
     static void Main(string[] args)
     {
         Person p = new Person();
-        ITeacher t1=p;
-        IStudent s1=p;
+        ITeacher t1 = p;
+        IStudent s1 = p;
         t1.Show();
         s1.Show();
     }
