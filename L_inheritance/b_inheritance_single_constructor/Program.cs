@@ -4,8 +4,8 @@ class StudentClass
 {
     public StudentClass()
     {
-      Console.WriteLine("Constructor of student class!");  
-    } 
+        Console.WriteLine("Constructor of student class!");
+    }
     public void StudentMethod()
     {
         Console.WriteLine("I am a student!");
@@ -27,7 +27,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        TeacherClass t1=new TeacherClass();
+        TeacherClass t1 = new TeacherClass();
         t1.StudentMethod();
         t1.TeacherMethod();
     }
